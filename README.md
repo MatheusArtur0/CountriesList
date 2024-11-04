@@ -4,7 +4,7 @@
   ## Clonando o repositório 
 
   ```
-  git clone https://github.com/MatheusArtur0/reactproject.git
+  git clone https://github.com/MatheusArtur0/CountriesList.git
 
   ```
   ## Instalando dependências 
